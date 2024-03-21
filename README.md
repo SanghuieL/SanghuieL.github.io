@@ -1,2 +1,2 @@
 # SanghuieL.github.io
-website attempt
+website
